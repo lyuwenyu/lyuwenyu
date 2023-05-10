@@ -1,4 +1,16 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+
+<p align="center">
+  <samp>
+I'm lyuwenyu. CVer, DLer. Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2. 
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lyuwenyu&show_icons=true" alt="lyuwenyu github stats"></img>
+</p>
+
+
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/lyuwenyu?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
