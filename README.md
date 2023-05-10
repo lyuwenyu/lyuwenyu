@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-I'm lyuwenyu. CVer, DLer. Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2. 
+I'm lyuwenyu. CVer, DLer, Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2. 
   </samp>
   <br/>
   <br/>
