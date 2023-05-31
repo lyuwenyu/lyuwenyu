@@ -7,11 +7,11 @@ I'm lyuwenyu. Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2. Maintainer of 
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lyuwenyu&show_icons=true" alt="lyuwenyu github stats"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuwenyu" alt="lyuwenyu github stats"></img>
 </p>
 
-
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=lyuwenyu&show_icons=true" alt="lyuwenyu github stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuwenyu" alt="lyuwenyu github stats"></img>
+ -->
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/lyuwenyu?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
