@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-I'm lyuwenyu. Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2. Maintainer of PaddleDetetion.
+I'm lyuwenyu. Author of RT-DETR, PP-YOLOE, PP-PicoDet, PP-YOLOv2.  PaddlePaddle/PaddleDetetion Maintainer.
   </samp>
   <br/>
   <br/>
