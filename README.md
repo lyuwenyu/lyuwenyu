@@ -5,7 +5,7 @@
   <samp>
 Hi, I'm lyuwenyu. Author of RT-DETR, PP-YOLOE+, PP-YOLOE, PP-PicoDet, PP-YOLOv2.  
     <br/> 
-    PaddlePaddle/PaddleDetetion, PaddlePaddle/PaddleMIX Maintainer.
+    PaddleDetetion & PaddleMIX Maintainer.
   </samp>
   <br/>
   <br/>
