@@ -1,6 +1,20 @@
 <!-- ### Hi there 👋 -->
 
 
+Hi there, I am Wenyu Lv 👋
+---
+
+🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
+  - *RTDETR, PPYOLOE, PPYOLOE+, PicoDet, PPYOLOv2*
+  - *PaddleDetection, PaddleMIX*
+
+🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
+
+📬 Reach out to me: lyuwenyu@foxmail.com
+
+
+
+<!-- 
 <p align="center">
   <samp>
 Hi, I'm lyuwenyu. 
@@ -12,7 +26,9 @@ Hi, I'm lyuwenyu.
   <br/>
   <br/>
 </p>
+ -->
 
+ 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=lyuwenyu&show_icons=true" alt="lyuwenyu github stats"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuwenyu" alt="lyuwenyu github stats"></img>
  -->
