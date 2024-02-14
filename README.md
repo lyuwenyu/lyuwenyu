@@ -5,7 +5,7 @@ Hi there, I am Wenyu Lv 👋
 ---
 
 🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
-  - *RTDETR, PPYOLOE, PPYOLOE+, PicoDet, PPYOLOv2*
+  - *RTDETR, RTDETRv2, PPYOLOE, PPYOLOE+, PicoDet and PPYOLOv2*
   - *PaddleDetection, PaddleMIX*
 
 🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
