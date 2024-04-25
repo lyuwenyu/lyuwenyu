@@ -8,8 +8,7 @@ Hi there, I am Wenyu Lv 👋
   - *RTDETR, RTDETRv2, PPYOLOE, PPYOLOE+, PicoDet and PPYOLOv2*
   - *PaddleDetection, PaddleMIX*
 
-<!-- 🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en) -->
-
+🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
 
 📬 Reach out to me: lyuwenyu@foxmail.com
 
