@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-Hi there, I am Wenyu Lv 👋
+Hi there 👋
 ---
 
 🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
