@@ -7,12 +7,22 @@ Hi there 👋
 🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
   - *RTDETR, RTDETRv2, PPYOLOE, PPYOLOE+, PicoDet and PPYOLOv2*
   - *PaddleDetection, PaddleMIX*
-
+   
 🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
 
 📬 Reach out to me: lyuwenyu@foxmail.com
 
+<!--
 
+- CV
+  - Author of **RTDETR, RTDETRv2, PPYOLOE, PPYOLOE+, PicoDet and PPYOLOv2**
+- MLLM
+  - Author of **PP-InstCapTagger**
+- Repo
+  - Leader of  **PaddleDetection, PaddleMIX, RT-DETR**
+  - Contributor of **Paddle, Pytorch**
+  
+-->
 
 <!-- 
 <p align="center">
