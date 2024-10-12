@@ -7,6 +7,7 @@ Hi there 👋
 🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
   - *PaddleDetection, PaddleMIX*
   - *RTDETR, RTDETRv2; PPYOLOE, PPYOLOE+, PPYOLOE-SOD; PicoDet; PPYOLOv2*
+  - *PP-InsCapTagger*
 
 🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
 
