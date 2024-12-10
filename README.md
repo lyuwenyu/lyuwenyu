@@ -1,17 +1,20 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 🍀 🌱 -->
 
+👋 Hi there
 
-Hi there 👋
----
-
-🌱 I'm currently working on <ins>computer vision</ins> and <ins>multimodal large language models</ins>
-  - *PaddleDetection, PaddleMIX*
-  - *RTDETR, RTDETRv2; PPYOLOE, PPYOLOE+, PPYOLOE-SOD; PicoDet; PPYOLOv2*
-  - *PP-InsCapTagger*
+> I am a Senior R&D Engineer at Baidu Inc. which I joined in Feb. 2021. My work covers a wide range of topics in <ins>computer vision</ins> and <ins>multimodal large language model</ins>.
+> 
+> My works on visual object detection include `RTDETR, RTDETRv2, PP-YOLOE, PP-YOLOE+, PP-YOLOE-SOD, PP-PicoDet and PP-YOLOv2`. The best known project, *RTDETR*, has been integrated by `huggingface/transformers` and `ultralytics/ultralytics` repositories. I also have some works on multimodal large language model including `PP-InsCapTagger, PP-InfinityDocData and PP-DocBee(2B)` for data analysis, data generation, and document understanding. I am a contributor of several prestigious communities, incuding `PaddlePaddle and pytorch`. My publications have over `1,400` citations (as of Dec. 2024). 
+> 
+> Before joining Baidu Inc. , I was a Software Engineer at Microsoft from 2019 to 2021, and a Senior Engineer at Baidu Inc. from 2018 to 2019, and a reaseach intern at Microsoft Research Asia (MSRA) from 2016 to 2017. I received my M.S. degree from Harbin Institute of Technology in 2018.
 
 🔭 [Google scholar](https://scholar.google.com/citations?user=pERUva8AAAAJ&hl=en)
 
 📬 Reach out to me: lyuwenyu@foxmail.com
+
+
+
+<!--
 
 <!--
 
