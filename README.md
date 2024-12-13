@@ -2,7 +2,7 @@
 
 👋 Hi there
 
-> I am an AI Engineer at Baidu Inc. which I joined in 2021. My research interest covers a wide range of topics in <ins>computer vision</ins> and <ins>multimodal large language model</ins>. My publications have over `1,400` citations (as of Nov. 2024).
+> I am an AI Researcher at Baidu Inc. which I joined in 2021. My research interest covers a wide range of topics in <ins>computer vision</ins> and <ins>multimodal large language model</ins>. My publications have over `1,400` citations (as of Nov. 2024).
 > 
 > My works on visual object detection include `RTDETR, RTDETRv2, PP-YOLOE, PP-YOLOE+, PP-YOLOE-SOD, PP-PicoDet and PP-YOLOv2`. The best known model *RTDETR* has been integrated into `huggingface/transformers` and `ultralytics/ultralytics` repositories. I also have some works on multimodal large language model including `PP-InsCapTagger, PP-InfinityDocData and PP-DocBee(2B)` for data analysis, data generation, and document understanding. I am also a contributor of several prestigious communities, including `pytorch and PaddlePaddle`.
 > 
